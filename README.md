@@ -4,7 +4,7 @@ Since January 2023, I have been contributing to a research project exploring NFL
 
 If you are interested in learning more about our research project, please click [here](https://github.com/sammieerne/NFL-Injury-Analysis).
 
-### Photos from the 2023 Undergreaduate Research Forum at Miami University
+### Photos from the 2023 Undergraduate Research Forum at Miami University
 
 <img src= https://github.com/sammieerne/sammieerne.github.io/blob/d59a579eca4a5e71900e320d334c53e386f93c91/images/Screenshot%202023-05-02%20at%2010.02.27%20PM.png width=60% height=60%>
 
