@@ -5,6 +5,6 @@ Since Januiary 2023, I have been contributing to a research project are explorin
 If you are intereested in learning more about our research project, please click [here](https://github.com/sammieerne/NFL-Injury-Analysis).
 
 
-<img src= https://github.com/sammieerne/sammieerne.github.io/blob/6f305710fa5fcb7f12101a904f13d2045a479a6f/images/Screenshot%202023-05-02%20at%2010.02.18%20PM.png width=75% height=75%>
+<img src= https://github.com/sammieerne/sammieerne.github.io/blob/d59a579eca4a5e71900e320d334c53e386f93c91/images/Screenshot%202023-05-02%20at%2010.02.27%20PM.png width=75% height=75%>
 
 <img src= https://github.com/sammieerne/sammieerne.github.io/blob/7ee89296248554f3de85646f605854d645f461ff/images/Screenshot%202023-05-02%20at%2010.01.29%20PM.png width=75% height=75%>
