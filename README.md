@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Samantha Erne, and I am currently a Master of Science in Business Analytics Student at Miami University. In my MSBA program, I have been able to improve my coding skills vastly in addition to learning new software and languages. I am particularly interested in Data Science, and enjoy working with both structured and unstructured data sets. 
+Hello! My name is Samantha Erne, and I am currently a Master of Science in Business Analytics Student at Miami University. In my graduate studies, I have been able to develop strong coding skills and experience working with data in many forms. I have a particular interest in Data Science, Data Enginerring, IT, and I enjoy working with both structured and unstructured data sets and being able to transform raw data into useful insights. 
 
 ## Current Projects
 
@@ -9,6 +9,8 @@ Since January 2023, I have been contributing to a research project exploring NFL
 If you are interested in learning more about our research project, please click [here](https://github.com/sammieerne/NFL-Injury-Analysis).
 
 ### Photos from the 2023 Undergraduate Research Forum at Miami University
+
+At the 2023 Miami University Undergraduate Research Forum, I was featured on a student panel to discuss my team's research project and what I had learned from it. My team was also featured in the poster section of the URF, where we were able to explain our research to students and faculty and receieve comments, questions, and advice. Our research was featured on promotional posters at the event as well as featured on various social media platforms and in web articles.  
 
 <img src= https://github.com/sammieerne/sammieerne.github.io/blob/d59a579eca4a5e71900e320d334c53e386f93c91/images/Screenshot%202023-05-02%20at%2010.02.27%20PM.png width=60% height=60%>
 
