@@ -12,7 +12,7 @@ Since January 2023, I have been contributing to a research project exploring NFL
 
 If you are interested in learning more about our research project, please click [here](https://github.com/sammieerne/NFL-Injury-Analysis).
 
-### Photos from the 2023 Undergraduate Research Forum at Miami University
+### 2023 Undergraduate Research Forum at Miami University
 
 At the 2023 Miami University Undergraduate Research Forum, I was featured on a student panel to discuss my team's research project and the learnings that I have gained from it. My team was also featured in the poster section of the URF, where we were able to explain our research to students and faculty and receive comments, questions, and advice. Our research was featured on promotional posters at the event as well as featured on various social media platforms and in web articles.  
 
