@@ -2,6 +2,8 @@
 
 Hello! My name is Samantha Erne, and I am currently a Master of Science in Business Analytics Student at Miami University. In my graduate studies, I have been able to develop strong coding skills and experience working with data in many forms. I have a particular interest in Data Science, Data Engineering, IT, and I enjoy working with both structured and unstructured data sets and being able to transform raw data into useful insights. 
 
+Programming languages that I am proficient in include Python, R, and SQL. I particularly enjoy working in Python, and have expertise in the language from various college courses as well as external and personal projects. I also have experience with Object-Oriented Programming, DAX, PowerBI, Tableau, Excel, Access, MySQL, and MongoDB.
+
 ## Current Projects
 
 Since January 2023, I have been contributing to a research project exploring NFL injuries on turf and grass fields. In our study, we are collecting and analyzing vast amounts of open-source NFL data from four recent seasons. We are focusing our analysis on the difference in injury rates on turf and grass fields using rarely researched variables. We are currently writing a research paper detailing our key findings and methodology, which is scheduled to be submitted to the American Journal of Sports Medicine in fall 2023.
