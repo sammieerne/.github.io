@@ -1,5 +1,7 @@
 ## About Me
 
+<img src= https://github.com/sammieerne/sammieerne.github.io/blob/0975661d33a7d2d0f7950e261c84e3cc6e907eab/images/1665006942785.jpg width=60% height=60%>
+
 Hello! My name is Samantha Erne, and I am a Master of Science in Business Analytics Student at Miami University. I am completing my BSBA and MSBA degrees concurrently through an accelerated 3+1 degree program here at Miami. I will be graduating in December 2023 with my Bachelor's degree, and May 2024 with my Master's degree.  In my graduate studies, I have been able to develop strong coding skills and experience working with data in many forms. I have a particular interest in Data Science, Data Engineering, IT, and I enjoy working with both structured and unstructured data sets and being able to transform raw data into useful insights. 
 
 Programming languages that I am proficient in include Python, R, and SQL. I particularly enjoy working in Python, and have expertise in the language from various college courses as well as external and personal projects. I also have experience with Object-Oriented Programming, DAX, PowerBI, Tableau, Excel, Access, MySQL, and MongoDB.
