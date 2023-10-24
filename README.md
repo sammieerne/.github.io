@@ -4,7 +4,7 @@ Hello! My name is Samantha Erne, and I am currently a Master of Science in Busin
 
 Programming languages that I am proficient in include Python, R, and SQL. I particularly enjoy working in Python, and have expertise in the language from various college courses as well as external and personal projects. I also have experience with Object-Oriented Programming, DAX, PowerBI, Tableau, Excel, Access, MySQL, and MongoDB.
 
-If you are interested in learning more about my background and experiences, please click here to view my resume.
+If you are interested in learning more about my background and experiences, please click [here](https://github.com/sammieerne/sammieerne.github.io/blob/8f9b017fdf15072343ac86004442b6b187ccce6d/Resume/Samantha%20Erne%20Resume.pdf) to view my resume.
 
 ## Current Projects
 
