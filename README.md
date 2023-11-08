@@ -6,8 +6,6 @@ Programming languages that I am proficient in include Python, R, and SQL. I part
 
 If you are interested in learning more about my background and experiences, please click [here](https://github.com/sammieerne/sammieerne.github.io/blob/8f9b017fdf15072343ac86004442b6b187ccce6d/Resume/Samantha%20Erne%20Resume.pdf) to view my resume.
 
-<img src= https://github.com/sammieerne/sammieerne.github.io/blob/0975661d33a7d2d0f7950e261c84e3cc6e907eab/images/1665006942785.jpg width=30% height=30%>
-
 ## Current Projects
 
 Since January 2023, I have been contributing to a research project exploring NFL injuries on turf and grass fields. In our study, we are collecting and analyzing vast amounts of open-source NFL data from four recent seasons. We are focusing our analysis on the difference in injury rates on turf and grass fields using rarely researched variables. We are currently writing a research paper detailing our key findings and methodology, which is scheduled to be submitted to the American Journal of Sports Medicine in fall 2023.
